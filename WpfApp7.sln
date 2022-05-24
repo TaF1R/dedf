@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp7", "WpfApp7\WpfApp7.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bibly", "Bibly\Bibly.csproj", "{07201BFA-B96C-4F9F-81F4-BEB13896654F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{F7206D17-D081-4291-975C-BD547F03A250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07201BFA-B96C-4F9F-81F4-BEB13896654F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07201BFA-B96C-4F9F-81F4-BEB13896654F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07201BFA-B96C-4F9F-81F4-BEB13896654F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7206D17-D081-4291-975C-BD547F03A250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7206D17-D081-4291-975C-BD547F03A250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7206D17-D081-4291-975C-BD547F03A250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7206D17-D081-4291-975C-BD547F03A250}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

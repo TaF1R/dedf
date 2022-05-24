@@ -7,6 +7,6 @@
         mc:Ignorable="d"
         Title="CreayeZakaz" Height="450" Width="441.463">
     <Grid>
-        
+        <Button x:Name="dsd" Margin="123,280,109,78"></Button>
     </Grid>
 </Window>

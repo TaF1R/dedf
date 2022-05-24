@@ -123,5 +123,15 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bibly\Bibly.csproj">
+      <Project>{07201bfa-b96c-4f9f-81f4-beb13896654f}</Project>
+      <Name>Bibly</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UnitTestProject1\UnitTestProject1.csproj">
+      <Project>{f7206d17-d081-4291-975c-bd547f03a250}</Project>
+      <Name>UnitTestProject1</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
